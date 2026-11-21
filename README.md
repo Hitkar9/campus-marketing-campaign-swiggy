@@ -59,7 +59,15 @@ The campaign leveraged direct student engagement, interactive activities, and an
 > Photographs from the on-campus activation, student engagement activities, and campaign execution.
 
 <!-- Add campaign images here after uploading them to the images folder -->
+<p align="center">
+  <img src="IMG-20251007-WA0035.jpg" width="48%" />
+  <img src="IMG-20251007-WA0037.jpg" width="48%" />
+</p>
 
+<p align="center">
+  <img src="IMG-20251007-WA0039.jpg" width="48%" />
+  <img src="IMG-20251007-WA0061.jpg" width="48%" />
+</p>
 ---
 
 ## 🧠 Key Skills & Learnings
